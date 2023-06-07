@@ -1,0 +1,19 @@
+body {
+   padding: 0;
+   margin: 0;
+}
+header {
+   display: flex;
+   box-sizing: border-box;
+}
+.website_name {
+   padding-left: 10px;
+}
+.basket img {
+   width: 100%;
+}
+.basket {
+   width: 50px;
+   padding-top: 15px;
+   margin-left: 1050px;
+}

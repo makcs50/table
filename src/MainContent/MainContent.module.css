@@ -1,0 +1,30 @@
+.nav {
+    padding-right: 150px;
+}
+.content {
+    display: flex;
+}
+.block {
+    max-width: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px 0 0 50px;
+}
+button {
+    width: 200px;
+    height: 35px;
+    background-color: blue;
+    color: white;
+    border: 1px solid; 
+    border-color: white;
+    border-radius: 10px; 
+}
+.product {
+    padding-right: 30px;
+}
+
+.img_rod{
+    text-align: center;
+}
+
+
